@@ -1,2 +1,2 @@
-# YT_Tutorial_Pkg_Lottie
-Code for the Youtube tutorial (https://youtu.be/x0a6_ILbvAk) on how to use the Flutter library lottie
+# Youtube Tutorial Code For Flutter Package *lottie*
+Code for the Youtube tutorial (https://youtu.be/2D8SBbTNKQE) on how to use the Flutter library lottie
